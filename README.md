@@ -1,2 +1,2 @@
-# -docker-container-age
+# docker-container-age
 print age of running containers
